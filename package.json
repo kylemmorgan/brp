@@ -1,0 +1,24 @@
+{
+  "name": "brp",
+  "version": "1.0.0",
+  "description": "Reformed Prayer Book drawing from the 1662 BCP",
+  "homepage": "https://github.com/kylemmorgan/brp#readme",
+  "bugs": {
+    "url": "https://github.com/kylemmorgan/brp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylemmorgan/brp.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+	"start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^40.4.1"
+  }
+}
